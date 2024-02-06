@@ -49,5 +49,9 @@ nav {
 }
 
 .large_text{
+    margin: 30px;
     padding: 150px;
+    border: solid 5px #2d232e;
+    border-radius: 10px;
+    
 }

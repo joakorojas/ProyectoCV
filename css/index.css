@@ -38,10 +38,10 @@ div{
 .card{
     display: flex;
     align-items: center;
-    text-align: center;
     padding: 40px;
     margin: 40px;
-    justify-content: center;
+    justify-content: space-around;
+
     
 }
 
@@ -50,10 +50,10 @@ div{
     align-items: right;
     text-align: center;
     border: solid 5px #2d232e;
-    padding: 40px;
-    margin-left: 200px;
+    padding: 100px;
+    margin-left: 100px;
     border-radius: 10px;
-    justify-content: center;
+    
 }
 
 .profile_picture{
