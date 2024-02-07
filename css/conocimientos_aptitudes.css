@@ -27,3 +27,22 @@ nav {
     justify-content: space-around;
     justify-content: space-evenly;
 }
+
+
+.combo-desplegable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.combo-desplegable label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.combo-desplegable select {
+    width: 30%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}

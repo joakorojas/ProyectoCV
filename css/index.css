@@ -10,11 +10,11 @@ body{
 }
 
 h1{
-    color: #2d232e;
+    color: #f1f0ea;
 }
 
 p{
-    color: #474448;
+    color: #f1f0ea;
 }
 
 a{
@@ -53,6 +53,7 @@ div{
     padding: 100px;
     margin-left: 100px;
     border-radius: 10px;
+    background-color: #2d232e;
     
 }
 

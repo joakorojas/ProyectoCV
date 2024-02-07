@@ -12,9 +12,15 @@ body{
 h1{
     color: #2d232e;
 }
-
+h2{
+    color: #f1f0ea;
+}
 p{
-    color: #474448;
+    color: #2d232e;
+}
+
+span{
+    color: #f1f0ea;
 }
 
 a{
@@ -53,5 +59,9 @@ nav {
     padding: 150px;
     border: solid 5px #2d232e;
     border-radius: 10px;
+    background-color: #2d232e;;
     
+}
+.not{
+    color: #f1f0ea;
 }

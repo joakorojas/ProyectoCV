@@ -10,11 +10,11 @@ body{
 }
 
 h1{
-    color: #2d232e;
+    color: #f1f0ea;
 }
 
 p{
-    color: #474448;
+    color: #f1f0ea;
 }
 
 a{
@@ -28,3 +28,54 @@ nav {
     justify-content: space-evenly;
 }
 
+td{
+    color: #f1f0ea;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .styled-table {
+    width: 30%; /* Ajusta el ancho de la tabla según tus necesidades */
+    border-collapse: collapse;
+    border: 2px solid #ddd;
+    background-color: #2d232e;
+  }
+  
+  .styled-table td, .styled-table th {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .styled-table th {
+    background-color: #2d232e;;
+  }
+  
+  .styled-table tr:nth-child(even) {
+    background-color: #2d232e;
+  }
+  
+  
+  
+  .styled-table td:first-child {
+    font-weight: bold;
+  }
+  
+  .styled-table a {
+    color: #f1f0ea;
+    text-decoration: none;
+  }
+  
+  .styled-table a:hover {
+    text-decoration: underline;
+  }
+  
+  .styled-image {
+    max-width: 20%; /* Ajusta el ancho máximo de la imagen según tus necesidades */
+    margin-right: 0px; /* Espacio entre la imagen y la tabla */
+    padding: 50px;
+  }
+  
