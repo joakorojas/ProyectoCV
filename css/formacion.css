@@ -17,15 +17,28 @@ p{
     color: #f1f0ea;
 }
 
-a{
-    color: #2d232e;
-    text-decoration: none;
-}
 nav {
     display: flex;
-    justify-content: space-between;
     justify-content: space-around;
-    justify-content: space-evenly;
+    align-items: center;
+    background-color: #f1f0ea; /* color de fondo */
+    padding: 10px;
+    border-radius: 20px; /* bordes curvos */
+}
+
+a {
+    color: #2d232e;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+a.current {
+    background-color: #e0ddcd; /* color de fondo con sombreado */
+    border-radius: 20px; /* bordes curvos */
+}
+a:hover {
+    background-color: #d6d3c3; /* Cambio de color al pasar el ratón por encima */
+    border-radius: 20px;
 }
 
 
