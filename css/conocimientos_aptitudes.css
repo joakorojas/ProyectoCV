@@ -69,3 +69,36 @@ a:hover {
     font-size: large;
 }
 
+/* Estilos para las tarjetas de descripción */
+.tarjeta, .tarjeta2 {
+    background-color: #ffffff; /* Color de fondo */
+    border: 1px solid #2d232e; /* Borde sólido */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
+    margin: 20px auto; /* Margen superior e inferior automático, centrando horizontalmente */
+    padding: 20px; /* Espaciado interno */
+    max-width: 600px; /* Ancho máximo */
+    text-align: center; /* Alinear el contenido al centro */
+    padding: 20px; /* Espaciado interno */
+}
+
+/* Estilos para los títulos de las tarjetas */
+.tarjeta h2, .tarjeta2 h2 {
+    color: #2d232e; /* Color del texto */
+    font-size: 24px; /* Tamaño del texto */
+    margin-bottom: 10px; /* Margen inferior */
+    
+}
+
+/* Estilos para los párrafos de las tarjetas */
+.tarjeta p, .tarjeta2 p {
+    color: #474448; /* Color del texto */
+    font-size: 16px; /* Tamaño del texto */
+    line-height: 1.5; /* Altura de línea */
+}
+
+.tarjeta img {
+    width: 100px; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    margin-bottom: 10px; /* Margen inferior */
+}

@@ -91,4 +91,55 @@ td{
   }
   
 
-  
+  .contact-form {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contact-form h2 {
+    color: #2d232e;
+}
+
+.contact-form form {
+  display: inline-block;
+  text-align: left;
+  background-color: #f1f0ea;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 60%; /* Ajusta el ancho del formulario según tus necesidades */
+  max-width: 600px; /* Establece un ancho máximo para evitar que el formulario se expanda demasiado en pantallas grandes */
+  margin: 0 auto; /* Centra el formulario horizontalmente */
+}
+
+
+.contact-form label {
+    display: block;
+    margin-bottom: 10px;
+    color: #2d232e;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.contact-form input[type="submit"] {
+    background-color: #2d232e;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-form input[type="submit"]:hover {
+    background-color: #4d3946;
+}

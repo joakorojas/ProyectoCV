@@ -6,6 +6,7 @@
     <title>Curriculum Vitae - Joaquin Rojas</title>
     <link rel="icon" type="ico" href="../assets/imgs/favicon.ico">
     <link rel="stylesheet" href="../css/conocimientos_aptitudes.css">
+    <script src="../js/conocimientos.js"></script>
 </head>
 <body>
     <nav>
@@ -21,7 +22,7 @@
     <div class="combo-container">
         <div class="combo-desplegable">
             <label for="combo">Conocimientos</label>
-            <select id="combo" name="combo">
+            <select id="combo" name="combo" onchange="despliegueTarjeta()">
                 <option value="opcion1">Python</option>
                 <option value="opcion2">Javascript</option>
                 <option value="opcion3">Java</option>
@@ -33,12 +34,15 @@
                 <option value="opcion9">Programación orientada a objetos</option>
                 <option value="opcion10">Diseño y análisis funcional de sistemas</option>
                 <option value="opcion11">UML</option>
+                <option value="opcion12">JIRA</option>
+                <option value="opcion13">Postman y ThunderClient </option>
+
             </select>
         </div>
     
         <div class="combo-desplegable">
             <label for="combo2">Aptitudes</label>
-            <select id="combo2" name="combo2">
+            <select id="combo2" name="combo2" onchange="despliegueAptitudes()">
                 <option value="aptitud1">Análisis de datos</option>
                 <option value="aptitud2">Diseño de sistemas</option>
                 <option value="aptitud3">Comunicación con mis pares</option>
@@ -47,9 +51,16 @@
                 <option value="aptitud6">Dedicación</option>
                 <option value="aptitud7">Persistencia</option>
                 <option value="aptitud8">Proactividad</option>
+                <option value="aptitud9">SCRUM</option>
             </select>
         </div>
     </div>
+
+   
+    <div id="tarjetaDescripcion"></div>
+
+    <div id="tarjetaAptitudes"></div>
+
     
     
 
