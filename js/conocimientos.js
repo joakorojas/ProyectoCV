@@ -197,7 +197,7 @@ const despliegueAptitudes = () => {
             <div class="tarjeta2">
                 <h2>Análisis de datos</h2>
                 <p>
-                Explicación de porqué tengo un buen análisis de un conjunto de datos</p>
+                El análisis de datos es una cualidad que poseo y que encuentro altamente aplicable en un entorno de trabajo en tecnologías de la información (TI). Mi habilidad radica en la capacidad de interpretar grandes volúmenes de información de manera eficiente y efectiva, identificando patrones, tendencias y oportunidades que pueden impulsar la toma de decisiones informadas y mejorar la eficiencia operativa. En un entorno de TI, esta habilidad es invaluable, ya que permite optimizar procesos, detectar anomalías en sistemas, mejorar la seguridad de la red y proporcionar información clave para el desarrollo de productos y servicios tecnológicos más innovadores y centrados en las necesidades del usuario. Mi enfoque meticuloso y orientado a resultados se complementa con una sólida comprensión de las herramientas y técnicas de análisis de datos más avanzadas, lo que me permite adaptarme rápidamente a las demandas y desafíos cambiantes del mundo digital.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
@@ -209,7 +209,7 @@ const despliegueAptitudes = () => {
             <div class="tarjeta2">
                 <h2>Diseño de sistemas</h2>
                 <p>
-                Explicación de porqué tengo un buen diseño de sistemas</p>
+                El diseño de sistemas es una cualidad que poseo y que considero altamente relevante en un entorno de trabajo en tecnologías de la información (TI). Esta habilidad la adquirí durante mi formación en la Universidad Tecnológica Nacional - Facultad Regional Córdoba, donde aprendí a conceptualizar, planificar y desarrollar sistemas informáticos eficientes y robustos. Mi capacidad para analizar requisitos, diseñar arquitecturas escalables y aplicar metodologías de desarrollo ágiles me permite contribuir de manera significativa en proyectos de TI. En un entorno laboral, aplicaría esta habilidad para crear soluciones tecnológicas innovadoras que satisfagan las necesidades del negocio y los usuarios finales, optimizando procesos y mejorando la experiencia del cliente.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
@@ -221,7 +221,7 @@ const despliegueAptitudes = () => {
             <div class="tarjeta2">
                 <h2>Comunicación</h2>
                 <p>
-                Explicación de porqué tengo un buen comunicacion</p>
+                La comunicación efectiva con mis pares y superiores es una cualidad que considero fundamental en un entorno de trabajo en tecnologías de la información (TI). Mi capacidad para transmitir ideas de manera clara y concisa, así como para escuchar activamente las opiniones y necesidades de los demás, facilita la colaboración y el trabajo en equipo. En un entorno IT, esta habilidad me permitiría comunicar de manera efectiva los progresos, desafíos y soluciones relacionados con los proyectos tecnológicos, asegurando una alineación adecuada entre los diferentes equipos y departamentos. Además, mi habilidad para adaptar mi estilo de comunicación según las necesidades del público me permite establecer relaciones sólidas y construir un ambiente de trabajo colaborativo y productivo.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
@@ -233,7 +233,7 @@ const despliegueAptitudes = () => {
             <div class="tarjeta2">
                 <h2>Resolución de problemas</h2>
                 <p>
-                Explicación de porqué tengo un buena resolución de problemas</p>
+                La capacidad de resolver problemas y mantener la eficacia bajo presión es una cualidad que considero esencial en un entorno de trabajo en tecnologías de la información (TI). Mi experiencia y habilidad para identificar rápidamente los problemas, analizar las causas subyacentes y desarrollar soluciones efectivas me permiten mantener la calma y tomar decisiones informadas incluso en situaciones de alta presión. En el ámbito de TI, donde los plazos son ajustados y los problemas pueden surgir inesperadamente, esta capacidad me permite mantener la estabilidad operativa y minimizar el impacto de cualquier contratiempo en los proyectos. Mi enfoque pragmático y mi habilidad para trabajar de manera eficiente en situaciones de estrés me convierten en un recurso valioso para resolver desafíos tecnológicos de manera oportuna y efectiva, garantizando la continuidad del negocio y la satisfacción del cliente.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
@@ -243,9 +243,9 @@ const despliegueAptitudes = () => {
         // Contenido de la tarjeta
         const contenidoTarjeta = `
             <div class="tarjeta2">
-                <h2>Manejo de situaciones complejass</h2>
+                <h2>Manejo de situaciones complejas</h2>
                 <p>
-                Explicación de porqué tengo un buen manejo de situaciones complejas</p>
+                El manejo de situaciones complejas es una cualidad que he cultivado y que considero especialmente relevante en un entorno de trabajo en tecnologías de la información (TI). Mi capacidad para descomponer problemas complejos en componentes más manejables, así como para identificar y priorizar las acciones necesarias para resolverlos, me permite enfrentar desafíos tecnológicos con confianza y eficacia. En el campo de TI, donde la complejidad de los sistemas y las interdependencias entre ellos pueden generar escenarios difíciles de gestionar, esta habilidad me permite mantener la claridad mental y tomar decisiones fundamentadas, incluso en situaciones de incertidumbre. Mi enfoque metódico y mi habilidad para trabajar en colaboración con equipos multidisciplinarios me convierten en un recurso valioso para abordar y superar con éxito los desafíos más exigentes en el ámbito tecnológico.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
@@ -257,7 +257,7 @@ const despliegueAptitudes = () => {
             <div class="tarjeta2">
                 <h2>Dedicación</h2>
                 <p>
-                Explicación de porqué tengo un buen dedicación</p>
+                La dedicación es una cualidad arraigada en mi ética laboral y la considero esencial en cualquier entorno de trabajo, incluido el de tecnologías de la información (TI). Mi compromiso con la excelencia y la búsqueda constante de soluciones óptimas me impulsa a dedicar tiempo y esfuerzo a cada tarea que emprendo en el campo de la tecnología. Esta dedicación se traduce en un enfoque persistente para alcanzar los objetivos establecidos, así como en la disposición para aprender y adaptarme a las nuevas tecnologías y metodologías. En un entorno de TI, donde la innovación y la evolución son constantes, mi dedicación garantiza que pueda mantenerme actualizado y ofrecer resultados consistentes y de alta calidad en cada proyecto en el que participe.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
@@ -269,7 +269,7 @@ const despliegueAptitudes = () => {
             <div class="tarjeta2">
                 <h2>Persistencia</h2>
                 <p>
-                Explicación de porqué tengo un buen persistencia</p>
+                La persistencia es una cualidad fundamental que he cultivado a lo largo de mi trayectoria y que considero esencial en un entorno de trabajo en tecnologías de la información (TI). Mi capacidad para mantenerme firme frente a los desafíos y obstáculos, combinada con una actitud proactiva y resiliente, me permite enfrentar problemas complejos en el ámbito tecnológico con determinación y perseverancia. En el campo de TI, donde los proyectos pueden encontrarse con contratiempos y dificultades inesperadas, mi persistencia me impulsa a seguir adelante, buscar soluciones alternativas y aprender de cada experiencia para alcanzar los objetivos establecidos. Esta cualidad no solo me permite superar los desafíos técnicos, sino que también contribuye a fomentar un ambiente de trabajo colaborativo y enfocado en encontrar soluciones efectivas y duraderas.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
@@ -281,7 +281,7 @@ const despliegueAptitudes = () => {
             <div class="tarjeta2">
                 <h2>Proactividad</h2>
                 <p>
-                Explicación de porqué tengo un buen proactividad</p>
+                La proactividad es una cualidad que define mi enfoque hacia el trabajo, y la considero esencial en un entorno de tecnologías de la información (TI). Mi capacidad para anticipar problemas, identificar oportunidades de mejora y tomar la iniciativa para abordarlas me permite ser un activo valioso en equipos de TI. En este campo, donde la innovación y la adaptación rápida son cruciales, mi proactividad se traduce en la capacidad de proponer soluciones creativas, implementar mejoras en los procesos y estar al tanto de las últimas tendencias tecnológicas. Esta actitud orientada a la acción no solo impulsa la eficiencia y la efectividad en el trabajo, sino que también contribuye a mantener un ambiente de equipo dinámico y enfocado en el logro de resultados sobresalientes.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
@@ -293,7 +293,7 @@ const despliegueAptitudes = () => {
             <div class="tarjeta2">
                 <h2>SCRUM</h2>
                 <p>
-                Explicación de porqué se manejarme mediante la metodología scrum</p>
+                El conocimiento de SCRUM como metodología ágil es una habilidad clave que poseo y que considero fundamental para aplicar en un entorno de trabajo en tecnologías de la información (TI). Mi comprensión profunda de SCRUM me permite liderar y participar de manera efectiva en equipos ágiles, facilitando la entrega iterativa y continua de productos de alta calidad. En el campo de TI, donde la rapidez, la flexibilidad y la colaboración son esenciales, el dominio de SCRUM me capacita para gestionar eficientemente proyectos complejos, adaptarme a cambios en los requisitos del cliente y mantener una comunicación fluida y transparente entre todos los miembros del equipo. Esta metodología fomenta la entrega de valor de manera incremental, lo que se traduce en una mayor satisfacción del cliente y en la capacidad de responder de manera ágil a las demandas del mercado en constante evolución.</p>
             </div>
         `;
         // Insertar el contenido en la tarjeta
