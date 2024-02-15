@@ -182,6 +182,19 @@ El análisis de sistemas implica comprender y documentar los requisitos del usua
     // Insertar el contenido en la tarjeta
     tarjetaDescripcion.innerHTML = contenidoTarjeta;
     }
+    else if (seleccion == "opcion14"){
+        // Contenido de la tarjeta
+        const contenidoTarjeta = `
+        <div class="tarjeta">
+        <img src="../assets/imgs/ingles_logo.jpg" alt="Inglés">
+            <h2>Inglés conversacional</h2>
+            <p>
+            El dominio de un nivel de inglés conversacional en habilidades orales y un nivel intermedio en habilidades escritas, junto con la capacidad de comprender todo lo que leo, constituye una cualidad que considero esencial y altamente aplicable en un entorno de trabajo en tecnologías de la información (TI). En un campo tan globalizado como el de TI, donde la comunicación y la colaboración con equipos internacionales son comunes, el dominio del inglés facilita la interacción efectiva con colegas, clientes y socios de todo el mundo. Además, la capacidad de comprender documentación técnica y recursos en inglés amplía el acceso a información y recursos clave, lo que permite mantenerse actualizado sobre las últimas tendencias, tecnologías y mejores prácticas en el sector. Esta competencia lingüística mejora la eficacia en la comunicación, promueve una colaboración más fluida en equipos multidisciplinarios y amplía las oportunidades profesionales en un mercado laboral cada vez más globalizado.</p>
+        </div>
+    `;
+    // Insertar el contenido en la tarjeta
+    tarjetaDescripcion.innerHTML = contenidoTarjeta;
+    }
     
 }
 

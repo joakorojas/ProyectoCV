@@ -14,6 +14,7 @@ const login = () => {
     let auth_password = 'admin';
     
     if (user == auth_user & password == auth_password){
+        localStorage.setItem('admin', JSON.stringify(auth_user))
         location.href = 'index.html'
     }
     else{

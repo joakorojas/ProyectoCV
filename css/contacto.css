@@ -130,7 +130,7 @@ td{
     box-sizing: border-box;
 }
 
-.contact-form input[type="submit"] {
+.contact-form button[type="button"] {
     background-color: #2d232e;
     color: white;
     border: none;
@@ -140,6 +140,6 @@ td{
     transition: background-color 0.3s ease;
 }
 
-.contact-form input[type="submit"]:hover {
+.contact-form button[type="button"]:hover {
     background-color: #4d3946;
 }

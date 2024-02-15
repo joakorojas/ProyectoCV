@@ -6,7 +6,7 @@
     <title>Curriculum Vitae - Joaquin Rojas</title>
     <link rel="icon" type="ico" href="../assets/imgs/favicon.ico">
     <link rel="stylesheet" href="../css/contacto.css">
-    <script src="../js/contacto.js"></script>
+    
 </head>
 <body>
     <nav>
@@ -46,28 +46,28 @@
 
       <div class="contact-form">
         <h2>¡Contacta conmigo!</h2>
-        <form action="#" method="POST">
-            <label for="fname">Nombre</label>
-            <input type="text" id="fname" name="firstname" placeholder="Tu nombre.." required>
+        <form action="#" method="POST" id="form">
+            <label for="name">Nombre</label>
+            <input type="text" id="name" placeholder="Tu nombre.." required>
 
-            <label for="lname">Apellido</label>
-            <input type="text" id="lname" name="lastname" placeholder="Tu apellido.." required>
+            <label for="lastName">Apellido</label>
+            <input type="text" id="lastName" placeholder="Tu apellido.." required>
 
             <label for="email">Email</label>
-            <input type="email" id="email" name="email" placeholder="Tu email.." required>
+            <input type="email" id="email" placeholder="Tu email.." required>
 
             <label for="subject">Asunto</label>
-            <input type="text" id="subject" name="subject" placeholder="Asunto.." required>
+            <input type="text" id="subject" placeholder="Asunto.." required>
 
-            <label for="message">Mensaje</label>
-            <textarea id="message" name="message" placeholder="Escribe tu mensaje.." style="height:100px" required></textarea>
+            <label for="msg">Mensaje</label>
+            <textarea id="msg" placeholder="Escribe tu mensaje.." style="height:100px" required></textarea>
 
-            <input type="submit" value="Enviar" onclick="enviarMail()">
+            <button type="button" id="enviarDatos"> Enviar </button>
         </form>
     </div>
 </div>
 
 
-    
+<script src="../js/contacto.js"></script>
 </body>
 </html>
